@@ -1,0 +1,28 @@
+{
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "djamo_clone",
+            "cwd": "djamo_clone",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "djamo_clone (profile mode)",
+            "cwd": "djamo_clone",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "djamo_clone (release mode)",
+            "cwd": "djamo_clone",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
